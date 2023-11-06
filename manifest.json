@@ -1,0 +1,18 @@
+{
+  "name": "tinypng",
+  "id": "1301990773047387737",
+  "api": "1.0.0",
+  "main": "code.js",
+  "capabilities": ["inspect"],
+  "enableProposedApi": false,
+  "editorType": [
+    "figma",
+    "dev"
+  ],
+  "ui": "ui.html",
+  "networkAccess": {
+    "allowedDomains": ["https://corsproxy.io", "https://api.tinify.com/"],
+    "reasoning": "",
+    "devAllowedDomains": []
+  }
+}
