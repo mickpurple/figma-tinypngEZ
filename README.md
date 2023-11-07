@@ -7,6 +7,7 @@ then, paste that converted string onto keychain object after "Basic " string in 
 then, build the code and enjoy ur plugin, ez pz!
 
 ---/---/---
+
 Below are the steps to get your plugin running. You can also find instructions at:
 https://www.figma.com/plugin-docs/plugin-quickstart-guide/
 
@@ -17,9 +18,11 @@ npm install --save-dev @figma/plugin-typings
 
 
 ---/---/---
+
 Compile TypeScript to JavaScript: Run the "Terminal > Run Build Task..." menu item,
 then select "npm: watch". You will have to do this again every time
 you reopen Visual Studio Code.
 
 That's it! Visual Studio Code will regenerate the JavaScript file every time you save.
+
 ---/---/---
