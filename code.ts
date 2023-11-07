@@ -1,6 +1,6 @@
 // import * as keychain from './keychain.json';
 const keychain = {
-  "api": "Basic YXBpOkNZNXBWNFEyWWJEMHlnMzVQTG1DbTdwV0d5VmIyeFhG"
+  "api": "Basic your_generated_api_here"
 }
 
 // This shows the HTML page in "ui.html".
